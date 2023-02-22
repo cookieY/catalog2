@@ -88,8 +88,8 @@ questions:
       type: dict
       attrs:
         - variable: url
-          description: Number of desired pod replicas
-          label: Desired Replicas
+          description: icon url
+          label: icon url
           schema:
             type: string
             required: true
