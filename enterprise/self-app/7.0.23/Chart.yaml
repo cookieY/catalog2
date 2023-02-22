@@ -15,7 +15,7 @@ maintainers:
   - email: info@truecharts.org
     name: TrueCharts
     url: https://truecharts.org
-name: custom-app
+name: self-app
 sources:
   - https://github.com/truecharts/charts/tree/master/charts/stable/custom-app
 type: application
