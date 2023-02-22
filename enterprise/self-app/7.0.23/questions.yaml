@@ -104,8 +104,9 @@ questions:
           description: Number of desired pod replicas
           label: Desired Replicas
           schema:
-            type: string
+            type: int
             required: true
+            default: 1
   - variable: customcommand
     group: "General Settings"
     label: "Custom Command"
