@@ -7,7 +7,6 @@ dependencies:
 deprecated: false
 description: Advanced tool to create your own TrueCharts-based App
 home: https://truecharts.org/charts/stable/custom-app
-icon: ""
 keywords:
   - custom
 kubeVersion: ">=1.16.0-0"
