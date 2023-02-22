@@ -88,12 +88,11 @@ questions:
       type: dict
       attrs:
         - variable: url
-          description: icon url
-          label: ""
+          description: Number of desired pod replicas
+          label: Desired Replicas
           schema:
             type: string
             required: true
-            default: 1
   - variable: controller
     group: "General Settings"
     label: ""
