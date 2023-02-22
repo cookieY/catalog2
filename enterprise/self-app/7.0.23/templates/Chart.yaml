@@ -17,7 +17,7 @@ maintainers:
     url: https://truecharts.org
 name: self-app
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/custom-app
+  - https://github.com/cookieY/catalog2/tree/master/enterprise/self-app
 type: application
 version: 7.0.23
 annotations:
